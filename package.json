@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  },
+  "name": "constructor",
+  "version": "1.0.0",
+  "description": "(:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HardlinePizza21/constructor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HardlinePizza21/constructor/issues"
+  },
+  "homepage": "https://github.com/HardlinePizza21/constructor#readme"
+}
